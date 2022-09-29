@@ -1,0 +1,48 @@
+/* .titulo {
+    color: blue;
+
+}
+
+h3 {
+    color: blue
+} */
+
+/*selectores combinados*/
+.titulo,h3{
+    color: blue;
+}
+
+div.contenedor{
+    border: 2px dotted black;
+}
+
+/*selectores descendientes*/
+div.contenedor p {/*contenido en (dentro*/
+    color: red;
+}
+div.contenedor>p{/*hijo directo*/
+    text-align: right;
+    color: green;
+}
+body>div{
+    background-color: yellow;
+}
+div.contenedor>div>p{
+    text-decoration: underline;
+}
+div.contenedor>p{
+    text-decoration: underline;
+}
+
+/* practica */
+footer.contenedor>a{
+    text-decoration: none;
+    color: green;
+}
+.titulo{
+    border: 2px solid black;
+}
+nav>a{
+    text-decoration: none;
+    color: green;
+}
