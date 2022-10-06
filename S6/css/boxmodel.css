@@ -1,0 +1,17 @@
+body{ /*borde cuando se hace en automatico*/
+    margin: 0;
+}
+
+.box{
+    border: 1px solid black;
+    padding: 10px;
+    margin: 5px; /*es el espacio entre las cajas*/
+    width: 50px;
+    height: 20px;
+}
+.box1{
+    background: red;
+}
+.box2{
+    background: blue;
+}
