@@ -1,0 +1,17 @@
+header>h2.title#title{
+    font-size:10px;
+  }
+  
+  .header{
+    height: 400px;
+    background: red;
+    color: white;
+    font-size:20px;
+  }
+
+/*
+1000 - en html
+100  - id
+10   - clases, atributos
+01   - etiquetas
+*/

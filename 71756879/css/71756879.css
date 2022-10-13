@@ -1,0 +1,33 @@
+.nivel-1{
+    border: 2px solid #00f;
+    padding: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-top: 30px;
+    padding: 5px;
+}
+
+.titulo-borde{
+    border: 2px solid #aaa;
+    padding: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.borde-1{
+    border: 2px solid #0f0; 
+}
+/* body{
+    padding: 10px;
+
+}
+body h1{
+    border: 2px solid #00F;
+    padding: 10px;
+    margin: 5px;
+}
+body h2{
+    border: 2px solid #AAA;
+}
+body ul{
+    border: 2px solid #0F0;
+} */

@@ -35,13 +35,7 @@ body{ /*borde cuando se hace en automatico*/
     border: 1px solid black;/*colapso*/
     /* padding-top: 48px; */
 }
-/* 
-.header{/*colapso
-    background: yellow;
-    height: 40px;
-    margin-top: 40px;
-    opacity: 0.5;
-} */
+
 .box2{
     background: blue;
     margin-top: 40px;
@@ -57,4 +51,5 @@ body{ /*borde cuando se hace en automatico*/
 
     box-sizing:border-box;
     overflow: hidden;
+    border: 10px double orange
 }
