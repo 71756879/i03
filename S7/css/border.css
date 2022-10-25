@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box; 
+}
+.box{
+    background: orange;
+    height: 150px;
+    width: 200px;
+    /* margin: auto, se centra solo */
+    margin: 0 auto;
+    margin-top: 20px;
+
+    /* border: tamaño estilo color */
+    border: 7px solid black;
+
+    border-top-color: red;
+    border-top-style: dashed;
+    border-top-width: 8px;
+
+    border-right-color: blue;
+    border-right-style: dotted;
+    border-right-width: 6px;
+
+    border-bottom-color: green;
+    border-bottom-style: double;
+    border-bottom-width: 4px;
+
+    border-left-color: black;
+    border-left-style: solid;
+    border-left-width: 2px;  
+}

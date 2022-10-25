@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header>h2.title#title{
+    font-size: 40px;
+}
+
+.header{
+    height: 200px;
+    background: red;
+    color: white;
+    font-size: 10px;
+    border: 10px solid black;
+    text-align: center;
+    padding: 15px;
+}
+.title{
+    font-size: 25px;
+    border: inherit;
+    padding: inherit;
+    text-align: initial;
+    color: initial;
+}
